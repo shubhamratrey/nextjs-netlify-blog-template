@@ -16,7 +16,7 @@ export default function Index() {
             Hi, I'm Shubh
           </h1>
           <span className="handle">@shubhamratrey</span>
-          <h2>Meet Me In Montauk </h2>
+          <h2>Coder, Guitrist and Photographer</h2>
           <SocialList />
         </div>
       </div>
