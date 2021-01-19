@@ -3,7 +3,15 @@
   "site_title": "Shubh's Blog",
   "site_description": "Next.js blog template for Netlify",
   "site_keywords": [
-    "blogs"
+    {
+      "keyword": "Next.js"
+    },
+    {
+      "keyword": "Netlify"
+    },
+    {
+      "keyword": "React"
+    }
   ],
   "posts_per_page": 5,
   "twitter_account": "@shubhamratrey",
